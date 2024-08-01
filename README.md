@@ -4,7 +4,7 @@
 
 ## Sobre mi :
 
-- 👤 Soy desarrollador Web.
+- 👤 Desarrollador Web.
 - 🎓 Realice un bootcamp en la academia Coding Dojo.
 - 🎓 Actualmente estoy estudiando la carrera de Lic. en Analisis de Sistemas Informáticos, en la UNAE.
 - 🏡 Vivo en Encarnación - Itapúa.
