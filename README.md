@@ -20,7 +20,7 @@
 
 <br>
 
-## Lenguajes que manejo 🧑‍💻 :
+## Tecnologias conocidas 🧑‍💻 :
 
 <br>
 
