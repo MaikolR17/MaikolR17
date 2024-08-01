@@ -30,6 +30,7 @@
 
 <br>
 
+<! --
 ## GitHub Stats 📈 :
 
 <br>
@@ -51,9 +52,10 @@
 <br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
+Creditos: [MaikolR17](https://github.com/MaikolR17)
+Ultima edición: 01/08/2024
