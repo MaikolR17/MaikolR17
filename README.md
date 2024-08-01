@@ -24,6 +24,9 @@
 
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)](https://skillicons.dev)
+
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/github.png"/>
 
 <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/fluency/48/000000/express.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
