@@ -16,16 +16,15 @@
 
 <br>
 
-[![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/instagram-new.png "@rodriguezmaikol17")](https://www.instagram.com/rodriguezmaikol17/) [![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/linkedin.png "@Maikol Rodriguez")](https://www.linkedin.com/in/maikol-rodriguez17/) 
-[![@+595986214339](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+595986214339")](tel:+595986214339) [![@maikolrodriguezm@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "@maikolrodriguezm@gmail.com")](maikolrodriguezm@gmail.com)
+[![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/instagram-new.png "@rodriguezmaikol17")](https://www.instagram.com/rodriguezmaikol17/) [![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/linkedin.png "@Maikol Rodriguez")](https://www.linkedin.com/in/maikol-rodriguez17/) [![@+595986214339](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+595986214339")](tel:+595986214339) [![@maikolrodriguezm@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "@maikolrodriguezm@gmail.com")](maikolrodriguezm@gmail.com)
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Lenguajes que manejo 🧑‍💻 :
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
