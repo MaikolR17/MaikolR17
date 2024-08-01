@@ -1,6 +1,3 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Maikol Rodriguez</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/MaikolR17?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MaikolR17?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MaikolR17.repoName) <img src="https://komarev.com/ghpvc/?username=MaikolR17" alt="MaikolR17" />
