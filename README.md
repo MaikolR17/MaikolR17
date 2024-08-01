@@ -7,9 +7,9 @@
 
 ## Sobre mi :
 
-- Soy desarrollador Web.
-- 🎓 Realice un bootcamp en la academia Coding Dojo.Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓Actualmente estoy estudiando la carrera de Lic. en Analisis de Sistemas Informáticos, en la UNAE.
+- 👤 Soy desarrollador Web.
+- 🎓 Realice un bootcamp en la academia Coding Dojo.
+- 🎓 Actualmente estoy estudiando la carrera de Lic. en Analisis de Sistemas Informáticos, en la UNAE.
 - 🏡 Vivo en Encarnación - Itapúa.
 - ⚡ **Pasatiempos favoritos** : 🎮 ⚽ 🎥 🍕
 
