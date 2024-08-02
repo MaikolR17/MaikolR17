@@ -16,7 +16,8 @@
 
 <br>
 
-[![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/instagram-new.png "@rodriguezmaikol17")](https://www.instagram.com/rodriguezmaikol17/) [![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/linkedin.png "@Maikol Rodriguez")](https://www.linkedin.com/in/maikol-rodriguez17/) [![@maikolrodriguezm@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "Enviar un correo")]("mailto:maikolrodriguezm@gmail.com")
+[![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/instagram-new.png "@rodriguezmaikol17")](https://www.instagram.com/rodriguezmaikol17/) [![@rodriguezmaikol17](https://img.icons8.com/fluency/48/000000/linkedin.png "@Maikol Rodriguez")](https://www.linkedin.com/in/maikol-rodriguez17/) [![@maikolrodriguezm@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:maikolrodriguezm@gmail.com)
+
 
 <br>
 
