@@ -20,7 +20,7 @@
 
 <br>
 
-## Tecnologias conocidas 🧑‍💻 :
+## Tecnologías conocidas 🧑‍💻 :
 
 <br>
 
