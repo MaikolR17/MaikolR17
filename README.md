@@ -24,7 +24,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,mongodb,express,react,nodejs,postman,visualstudiocode,photoshop)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
 
